@@ -19,6 +19,21 @@ A mobile application built using React Native, [Stream.io](https://getstream.io/
 - NodeJS
 - Expo
 
+## Technologies Used
+
+### Front-End:
+- **ReactNative**: For building the user interface.
+- **Redux**: For state management.
+- **React Router**: For handling navigation.
+- **Axios**: For making HTTP requests to the API.
+
+### Back-End:
+- **Node.js**: For the server-side environment.
+- **Express.js**: For building the RESTful API.
+- **MongoDB**: For the database, using Mongoose as an ODM.
+- **JWT (JSON Web Tokens)**: For user authentication and authorization.
+  
+
 ## Setup instructions
 
 ### 1. Install dependencies
