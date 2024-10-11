@@ -1,3 +1,8 @@
+# Screenshot
+
+A mobile application built using React Native, [Stream.io](https://getstream.io/) and [react-native-activity-feed](https://github.com/GetStream/react-native-activity-feed)
+
+![screenshots of example app](/images/screenshots@2x.png)
 ## Features
 
 - Flat feed
@@ -71,10 +76,6 @@ Copy the line this script outputs and put it in your `.env` file.
 expo start
 ```
 
-# Screenshot
 
-A mobile application built using React Native, [Stream.io](https://getstream.io/) and [react-native-activity-feed](https://github.com/GetStream/react-native-activity-feed)
-
-![screenshots of example app](/images/screenshots@2x.png)
 
 Follow the instructions from the terminal to preview the app on your phone or using an emulator.
